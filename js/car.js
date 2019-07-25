@@ -1,6 +1,7 @@
 var vue = new vue({
     el:"#app",
     data:{
+		totalMoney:0,
         productList:[]
     },
     //钩子函数，当所有DOM挂载在页面上时，加载此方法，相当于window.onload=function(){}
