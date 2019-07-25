@@ -18,7 +18,7 @@ var vue = new vue({
 			this.$http.get('./data/cartData.json',{'id':123}).then(function(res){
 				_this.productList = res.data.result.list;
 				//_this.totalMoney = res.data.result.totalMoney;
-			});
+			});//注释
         },
     }
 })
