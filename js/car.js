@@ -1,4 +1,4 @@
-var vue = new vue({
+var vue = new Vue({
     el:"#app",
     data:{
 		totalMoney:0,
