@@ -10,5 +10,6 @@
     "vue"
   ],
   "author": "Yfling",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
